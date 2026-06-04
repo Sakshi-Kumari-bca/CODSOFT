@@ -1,12 +1,16 @@
 # CodSoft Internship - June 2026
 
 **Name:** Sakshi Kumari  
-**Domain:** Java Programming  
+**Domain:** Web Development  
 **Batch:** June 2026
 
-## Tasks Completed
-1. Task 1 - Calculator ✅ Completed + [Live Demo](https://sakshi-kumari-bca.github.io/CODSOFT/)
-2. Task 2 - Coming Soon  
-3. Task 3 - Coming Soon
+## ✅ Tasks Completed
 
-#codsoft# CODSOFT
+### Level 1
+1. **Task 1: Portfolio Website** - Completed 2 June 2026 ✅
+2. **Task 3: Calculator** - Completed 1 June 2026 ✅
+
+### Level 1 Remaining  
+3. **Task 2: Landing Page** - In Progress
+
+#codsoft #CODSOFT
