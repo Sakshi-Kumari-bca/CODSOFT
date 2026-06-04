@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #2E8B57;
+    color: white;
+    padding: 15px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.hero {
+    background: #98FB98;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero button {
+    padding: 10px 30px;
+    background: #2E8B57;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#places {
+    padding: 50px;
+    text-align: center;
+}
+
+.columns {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.box {
+    background: #f0f0f0;
+    padding: 20px;
+    width: 30%;
+    border-radius: 8px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}/* About Section Fix */
+#about {
+    padding: 40px;
+    overflow: hidden;  /* Ye important hai */
+}
+
+#about img {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    border-radius: 10px;  /* Photo gol corner me */
+}
+
+#about p {
+    text-align: justify;
+}
+
+/* Skills Section Fix */
+#skills {
+    clear: both;  /* Photo ke neeche se start hoga */
+    padding: 40px;
+}
+
+#skills ul {
+    list-style-type: disc;  /* Bullet points wapas aa jayenge */
+    padding-left: 40px;     /* Left se space */
+}
+
+#skills li {
+    margin: 10px 0;
+    font-size: 18px;
+}
