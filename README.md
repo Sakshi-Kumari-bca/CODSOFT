@@ -10,7 +10,7 @@
 
 ### Level 1
 1. **Task 1: Portfolio Website** - Completed 2 June 2026 ✅
-2. **Task 2: Landing Page** - Completed 27 June 2026 ✅
+2. **Task 2: Landing Page** - Completed 26 June 2026 ✅
 3. **Task 3: Calculator** - Completed 1 June 2026 ✅
 
 ---
